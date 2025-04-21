@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A876F7&background=FFAC5100&center=true&vCenter=true&random=false&width=435&lines=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D%EA%B0%80%EB%A5%BC+%ED%9D%AC%EB%A7%9D%ED%95%98%EB%8A%94+%EC%9C%A4%EC%83%81%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 # 🧑‍💻About Me...
-> - 🔭 I’m currently working on **데이터리안 캠프**
+> - 🔭 I’m currently working on Nestjs
 > - 🏀 I'm a huge fan of Donovan Mitchell
 > - 🏃 I'm a marathon lover
 > - ⚡ Eager to be a Data Analyst
